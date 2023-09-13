@@ -27,4 +27,4 @@ for x in range(5):
     # Further customize chart
     fig.update_layout(xaxis_dtick=1)
     fig.show()
-    fig.write_html('dice_visual_d6d10.html')
+    #fig.write_html('dice_visual_d6d10.html')
